@@ -13,6 +13,12 @@
 * Routers
 ---------------------------------------------------------------------------------------------------------------
 ### 📷 __IMAGES__ 📷 __:__
+![image](https://github.com/AdityaBK1/Manufacture-Transporter-Webdashboard-Frontend/assets/131005390/6513262b-0a21-4887-9899-15ff4be978f9)
+
+![image](https://github.com/AdityaBK1/Manufacture-Transporter-Webdashboard-Frontend/assets/131005390/2e67e9f4-b053-4629-ac77-720d2aa314a1)
+
+![image](https://github.com/AdityaBK1/Manufacture-Transporter-Webdashboard-Frontend/assets/131005390/f5b43243-fb5c-4b5b-94a4-549b91846541)
+
 ---------------------------------------------------------------------------------------------------------------
 ### If you like it remember to give repo a star ⭐.
 
